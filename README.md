@@ -1,2 +1,7 @@
 # webmastering
-for interviewers only
+
+## Run
+
+```shell script
+node src/index.js
+```

@@ -1,0 +1,11 @@
+{
+  "name": "webmastering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:magmel48/webmastering.git",
+  "author": "magmel <dev@changehero.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
